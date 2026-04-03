@@ -1,0 +1,15 @@
+Factorial (Loop): 120
+Factorial (Recursion): 120
+Sum (Loop): 15
+Sum (Recursion): 15
+Reverse (Loop): olleh
+Reverse (Recursion): olleh
+Fibonacci (Loop): [0, 1, 1, 2, 3, 5]
+Fibonacci (Recursion): [0, 1, 1, 2, 3, 5]
+Sum of Digits (Loop): 10
+Sum of Digits (Recursion): 10
+Palindrome (Loop): True
+Palindrome (Recursion): True
+Max (Loop): 9
+Max (Recursion): 9
+Climb Stairs Ways: 5
