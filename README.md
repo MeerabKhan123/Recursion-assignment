@@ -10,29 +10,29 @@ Each problem is solved using logical thinking to improve programming fundamental
 
 ---
 
-#📌 Problems Included:
-##Factorial of a Number
+📌 Problems Included:
+Factorial of a Number
 Find factorial using loop and recursion.
 
-##Sum of First N Natural Numbers
+Sum of First N Natural Numbers
 Calculate sum from 1 to n.
 
-##Reverse a String
+Reverse a String
 Reverse given text.
 
-##Fibonacci Sequence
+Fibonacci Sequence
 Generate Fibonacci series.
 
-##Sum of Digits
+Sum of Digits
 Add all digits of a number.
 
-##Palindrome Check
+Palindrome Check
 Check if string reads same forward and backward.
 
-##Maximum Element in a List
+Maximum Element in a List
 Find largest number in a list.
 
-##Climbing Stairs Problem
+Climbing Stairs Problem
 Count ways to reach top using 1 or 2 steps.
 
 ---
